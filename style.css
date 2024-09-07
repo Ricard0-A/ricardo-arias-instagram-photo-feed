@@ -1,0 +1,193 @@
+.header {
+    background-color: white;
+    color: black;
+    height: 120px;
+    margin: 0;
+    position: relative;
+    top: -9px;
+}
+
+
+.header h1 {
+    margin: 0;
+    text-align: center;
+    position: relative;
+    top: 32px;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+
+/* SECCION - POST 1 
+*/
+
+
+.post_1 {
+    background-color: white;
+    height: 535px;
+    margin-top: 75px !important;
+    width: 600px;
+    position: relative;
+    left: 500px;
+
+
+
+
+}
+
+.post_1 h1 {
+    top: 15px;
+    font-size: 22px;
+    padding-left: 19px;
+    padding-top: 14px;
+
+
+
+
+}
+
+.post_1 h2 {
+    padding-top: 7px;
+    font-weight: lighter;
+    font-size: 21px;
+    color: gray;
+    background-color: none;
+    position: absolute;
+    top: -10px;
+    left: 525px;
+
+}
+
+.post_1 img {
+    width: 600px;
+    height: 400px;
+}
+
+
+
+/* SECCION - POST 2  
+*/
+
+.post_2 {
+    background-color: white;
+    height: 509px;
+    margin-top: 55px !important;
+    width: 600px;
+    position: relative;
+    left: 500px;
+}
+
+
+.post_2 h1 {
+    top: 15px;
+    font-size: 22px;
+    padding-left: 19px;
+    padding-top: 14px;
+
+
+
+}
+
+.post_2 h2 {
+    padding-top: 7px;
+    font-weight: lighter;
+    font-size: 21px;
+    color: gray;
+    background-color: none;
+    position: absolute;
+    top: -10px;
+    left: 525px;
+
+}
+
+.post_2 img {
+    width: 600px;
+    height: 400px;
+}
+
+
+
+
+
+/* SECCION - POST 3  
+*/
+
+
+.post_3 {
+    background-color: white;
+    height: 530px;
+    margin-top: 55px !important;
+    width: 600px;
+    position: relative;
+    left: 500px;
+}
+
+
+.post_3 h1 {
+    top: 15px;
+    font-size: 22px;
+    padding-left: 19px;
+    padding-top: 14px;
+
+
+
+}
+
+.post_3 h2 {
+    padding-top: 7px;
+    font-weight: lighter;
+    font-size: 21px;
+    color: gray;
+    background-color: none;
+    position: absolute;
+    top: -10px;
+    left: 525px;
+
+}
+
+.post_3 img {
+    width: 600px;
+    height: 400px;
+}
+
+
+/* SECCION - POST 4  
+*/
+
+.post_4 {
+    background-color: white;
+    height: 509px;
+    margin-top: 55px !important;
+    width: 600px;
+    position: relative;
+    left: 500px;
+}
+
+
+.post_4 h1 {
+    top: 15px;
+    font-size: 22px;
+    padding-left: 19px;
+    padding-top: 14px;
+
+
+
+}
+
+.post_4 h2 {
+    padding-top: 7px;
+    font-weight: lighter;
+    font-size: 21px;
+    color: gray;
+    background-color: none;
+    position: absolute;
+    top: -10px;
+    left: 525px;
+
+}
+
+.post_4 img {
+    width: 600px;
+    height: 400px;
+}
